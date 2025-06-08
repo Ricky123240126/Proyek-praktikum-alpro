@@ -1,5 +1,0 @@
-1  11                  ricky                    Laki-laki      
-2  12                  moreno                   Laki-laki      
-3  13                  nabila                   Perempuan      
-4  15                  maura                    Perempuan      
-5  16                  alsa                     Perempuan      
