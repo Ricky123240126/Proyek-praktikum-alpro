@@ -1,0 +1,4 @@
+Kode    Brand          Model               Harga       Stok  
+1002    Nike           Air-Max             1250000     10    
+1003    Adidas         Ultraboost          1500000     5     
+1001    Puma           RS-X                1100000     8     

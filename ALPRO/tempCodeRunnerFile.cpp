@@ -1,0 +1,1 @@
+IPK >= 2.25 && totalSks >= 144 && sksMka > 15 && sksD < 0.25*totalSks && sksE == 0

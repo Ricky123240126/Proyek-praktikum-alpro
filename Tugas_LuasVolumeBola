@@ -1,0 +1,19 @@
+#include <iostream>
+#define phi 3.14
+using namespace std;
+main ()
+{
+    int r;
+    float LPB;
+    float VB;
+    cout << "jari-jari";
+    cin >> r;
+
+    LPB = 4*phi*r*r;
+    VB = (4.0/3*phi*r*r*r);
+
+    cout << "luas permukaan bola" << LPB << "/n";
+    cout << " volume bola" << VB;
+
+    return 0; 
+}
